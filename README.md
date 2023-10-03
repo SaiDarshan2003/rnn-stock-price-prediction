@@ -20,11 +20,11 @@ Develop a Recurrent Neural Network model for stock price prediction using the st
 
 ### STEP 2:
 
-load the stock dataset
+Load the stock dataset
 
 ### STEP 3:
 
-fit the model and then predict
+Fit the model and then predict
 
 ## PROGRAM
 
